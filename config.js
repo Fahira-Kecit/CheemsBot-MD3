@@ -51,8 +51,8 @@ global.location = "Indonesia, Sumatra Selatan, Bangka Belitung" //ur location
 global.botname = "WpsBotzZ" //ur bot name
 global.websitex = "https://youtube.com/shorts/6qK8qKW_TCw?feature=share" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Instagram"
-global.author = "@cekor.store"
+global.packname = "Cekor Store"
+global.author = "MITRABL*516066"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['wa.me/6285380779466'] //ur owner tag
