@@ -1,8 +1,8 @@
 {
-  "name": "WpsBot-MD",
+  "name": "2022 • WPSBOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/NothingBotzZ/CheemsBot-MD3",
-  "logo": "https://telegra.ph/file/097a9403761c1da8994c9.jpg",
+  "repository": "https://youtube.com/c/NOTHING_Andriann",
+  "logo": "https://telegra.ph/file/81366c32e3d2fe445db7d.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
