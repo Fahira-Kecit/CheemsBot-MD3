@@ -48,7 +48,7 @@ global.socialm = "GitHub: NothingBotzZ" //ur github or insta name
 global.location = "Indonesia, Sumatra Selatan, Bangka Belitung" //ur location
 
 //bot bombdy
-global.botname = "WpsBotzZ" //ur bot name
+global.botname = "2022 • WPSBOT" //ur bot name
 global.websitex = "https://youtube.com/shorts/6qK8qKW_TCw?feature=share" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Instagram"
@@ -58,8 +58,8 @@ global.reactmoji = "😘"
 global.ownertag = ['wa.me/6285380779466'] //ur owner tag
 global.ownernummenu = ['6285380779466'] //ur owner number in menu and all
 global.watermark = "Nothing." //ur watermark
-global.botscript = "https://github.com/NothingBotzZ/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/Jt4LzL5tJ5K5nzYYDiMPfA"
+global.botscript = "https://youtube.com/c/NOTHING_Andriann"
+global.linkz1 = "https://chat.whatsapp.com/IurnrdxqU3IHIpoPnbBQXB"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
